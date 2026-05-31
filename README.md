@@ -1,100 +1,69 @@
-# 👋 Hi, I'm Riya Dumbare
+<div align="center">
 
-🚀 Full-Stack Web Development Learner | MERN Stack | DSA Enthusiast  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Riya+Dumbare+%F0%9F%91%8B;MERN+Stack+Developer+in+Making+%F0%9F%9A%80;DSA+Enthusiast;Open+to+Internships" alt="Typing SVG" />
 
-I’m a passionate developer focused on strengthening my fundamentals in full-stack web development using the MERN stack.  
-I enjoy building practical projects that improve my problem-solving skills and deepen my understanding of backend systems.  
+<img src="https://komarev.com/ghpvc/?username=riya-dumbare&label=Profile+Views&color=a855f7&style=flat" alt="profile views" />
 
-Currently improving consistency in Data Structures & Algorithms while building real-world applications to sharpen my development skills.
-
----
-
-## 🚀 Currently Working On
-
-- MERN stack practice projects  
-- Strengthening DSA problem-solving skills  
-- Learning backend architecture & authentication concepts  
+</div>
 
 ---
 
-## 🤝 Looking to Collaborate On
+## 🚀 About Me
 
-- MERN stack applications  
-- Beginner-friendly open-source projects  
-- Web development practice projects  
-
----
-
-## 🧠 Currently Learning
-
-- MongoDB, Express, React, Node  
-- Data Structures & Algorithms  
-- Git & GitHub workflows  
-- Web security fundamentals  
+```javascript
+const riya = {
+  status:    "2nd Year IT Student 🎓",
+  focus:     ["MERN Stack", "DSA", "Backend Systems"],
+  funFact:   "Powered by coffee & curiosity",
+  currently: "Building real-world projects & grinding DSA",
+  openTo:    ["Internships", "Collaborations", "Open Source"]
+};
+```
 
 ---
 
-## 💬 Ask Me About
+## 🛠️ Tech Stack
 
-- Web development basics  
-- DSA preparation strategy  
-- Git & version control  
-- Academic project development  
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=java,js,ts,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riya-dumbare&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true&title_color=48cae4&text_color=ffffff&icon_color=48cae4&ring_color=48cae4" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=riya-dumbare&theme=chartreuse-dark&hide_border=true&ring=48cae4&fire=48cae4&currStreakLabel=48cae4&sideLabels=48cae4&dates=ffffff" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riya-dumbare&theme=chartreuse-dark&hide_border=true&layout=compact&title_color=48cae4&text_color=ffffff" height="165"/>
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riya-dumbare&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-dumbare)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyadumbare@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-dumbare)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyadumbare@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya-dumbare)
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+<div align="center">
 
-### 🖥 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+*"Code. Break. Fix. Repeat. ☕"*
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🛠 Backend
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=riya-dumbare&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-dumbare&theme=dark&layout=compact)
-
-
-<!--
-**riya-dumbare/riya-dumbare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
