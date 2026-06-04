@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Riya+Dumbare+%F0%9F%91%8B;MERN+Stack+Developer+in+Making+%F0%9F%9A%80;DSA+Enthusiast;Open+to+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Riya+Dumbare+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast;Open+to+Internships" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=riya-dumbare&label=Profile+Views&color=a855f7&style=flat" alt="profile views" />
 
@@ -36,9 +36,9 @@ const riya = {
 
 <div align="center">
   
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riya-dumbare&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true&title_color=48cae4&text_color=ffffff&icon_color=48cae4&ring_color=48cae4" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=riya-dumbare&theme=chartreuse-dark&hide_border=true&ring=48cae4&fire=48cae4&currStreakLabel=48cae4&sideLabels=48cae4&dates=ffffff" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riya-dumbare&theme=chartreuse-dark&hide_border=true&layout=compact&title_color=48cae4&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=riya-dumbare&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true&title_color=48cae4&text_color=ffffff&icon_color=48cae4" height="165"/>
+<img src="https://streak-stats.demolab.com?user=riya-dumbare&theme=chartreuse-dark&hide_border=true&ring=48cae4&fire=48cae4&currStreakLabel=48cae4&sideLabels=48cae4&dates=ffffff" height="165"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=riya-dumbare&theme=chartreuse-dark&hide_border=true&layout=compact&title_color=48cae4&text_color=ffffff" height="165"/>
 
 </div>
 
@@ -55,7 +55,7 @@ const riya = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-dumbare)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Riya_007/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyadumbare@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya-dumbare)
 
@@ -64,7 +64,5 @@ const riya = {
 ---
 
 <div align="center">
-
-*"Code. Break. Fix. Repeat. ☕"*
-
+<em>"Code. Break. Fix. Repeat. ☕"</em>
 </div>
