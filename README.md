@@ -14,7 +14,6 @@
 const riya = {
   status:    "2nd Year IT Student 🎓",
   focus:     ["MERN Stack", "DSA", "Backend Systems"],
-  funFact:   "Powered by coffee & curiosity",
   currently: "Building real-world projects & grinding DSA",
   openTo:    ["Internships", "Collaborations", "Open Source"]
 };
