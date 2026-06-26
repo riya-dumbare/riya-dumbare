@@ -12,7 +12,7 @@
 
 ```javascript
 const riya = {
-  status:    "2nd Year IT Student 🎓",
+  status:    "3rd Year IT Student 🎓",
   focus:     ["MERN Stack", "DSA", "Backend Systems"],
   currently: "Building real-world projects & grinding DSA",
   openTo:    ["Internships", "Collaborations", "Open Source"]
